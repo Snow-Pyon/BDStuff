@@ -9,4 +9,5 @@ This is an implementation of [maple's theme](https://github.com/mrmaple240/UserP
 ![](https://thumbs.gfycat.com/MeekHotIndianskimmer-size_restricted.gif)
 
 ![](https://i.imgur.com/IbQY4x5.png)
+![](https://thumbs.gfycat.com/PartialShimmeringKomododragon-size_restricted.gif)
 
