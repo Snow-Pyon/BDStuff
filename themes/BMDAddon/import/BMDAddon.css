@@ -31,7 +31,8 @@
     transition: filter 500ms ease-out;
 }
 .userPopout-4pfA0d .headerPlaying-2eYqm9,
-.userPopout-4pfA0d .headerStreaming-3F-wjT {
+.userPopout-4pfA0d .headerStreaming-3F-wjT,
+.userPopout-4pfA0d .headerSpotify-1fSJPO {
     height: 100% !important;
     background-color: #2f3136 !important;
 }
